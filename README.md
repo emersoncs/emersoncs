@@ -49,7 +49,11 @@ Buscando oportunidades como **Desenvolvedor Front-End Júnior**, aplicando minha
 ## 📊 Estatísticas do GitHub
 <div align="center">
 
-![Metrics](https://github.com/emersoncs/emersoncs/blob/main/github-metrics.svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emersoncs&theme=tokyonight)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emersoncs&theme=tokyonight)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emersoncs&theme=tokyonight)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emersoncs&theme=tokyonight)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emersoncs&theme=tokyonight&utcOffset=3)
 </div>
 
 ---
