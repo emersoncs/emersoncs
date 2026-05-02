@@ -51,6 +51,7 @@ Buscando oportunidades como **Desenvolvedor Front-End Júnior**, aplicando minha
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=emersoncs&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=emersoncs&layout=compact&theme=tokyonight)
+
   
 
 </div>
